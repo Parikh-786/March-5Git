@@ -1,0 +1,1 @@
+This is another text file i have created inside branch2.
